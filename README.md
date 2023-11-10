@@ -1,4 +1,4 @@
-# Midterm Project
+# IMDb Movie List Project
 
 This is a movie list app that displays imdb data about any movie searched.
 
