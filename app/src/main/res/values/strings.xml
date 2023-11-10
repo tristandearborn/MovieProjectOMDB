@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieProjectOMDB</string>
+    <string name="search">Search!</string>
+    <string name="search_for_a_movie_to_see_information_about_it">Search for a movie to see information about it!</string>
+    <string name="tristan_dearborn_s_movie_search_project_app">Tristan Dearborn\'s Movie Search Project App</string>
+    <string name="search_for_a_movie">Search For a Movie!</string>
+    <string name="click_here_to_open_imdb_link">Click Here to Open IMDb Link!</string>
+    <string name="imdb_rating">IMDb Rating:</string>
+    <string name="share">Share</string>
+    <string name="genre">Genre:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="feedback">Feedback</string>
+</resources>
